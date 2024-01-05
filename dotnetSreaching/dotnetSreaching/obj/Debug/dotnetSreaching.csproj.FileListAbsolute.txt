@@ -1,0 +1,7 @@
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\bin\Debug\dotnetSreaching.exe.config
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\bin\Debug\dotnetSreaching.exe
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\bin\Debug\dotnetSreaching.pdb
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\obj\Debug\dotnetSreaching.csproj.AssemblyReference.cache
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\obj\Debug\dotnetSreaching.csproj.CoreCompileInputs.cache
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\obj\Debug\dotnetSreaching.exe
+C:\Users\anves\OneDrive\Mphasis\dotnetSreaching\dotnetSreaching\obj\Debug\dotnetSreaching.pdb
